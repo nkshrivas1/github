@@ -1,4 +1,4 @@
-# github
+# GitHub
 Learning github 
 ## What is the difference between clone and fork ?
 ### clone 
@@ -8,7 +8,7 @@ it wil change original code when we made any change in cloned repo and pushed it
 A git fork is a personal, server side copy of a repository.
 allowing you to freely experiment or contribute to projects without effecting the original project
 
-Line add by Swayam
+Line add by Tanmay 
 
 vim terminal -> open when git commit command is run without message
 ### Steps commit using vim 
