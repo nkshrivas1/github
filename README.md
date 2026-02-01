@@ -15,4 +15,10 @@ vim terminal -> open when git commit command is run without message
     1. Add commit message directly in terminal
     2. Press ESC 
     3. Type ->    :wq
+    4. Press Enter
+
+### Cancel the commit vim
+    1. Press ESC 
+    2. :q!
+    3. Enter
     4. Press Enter  
